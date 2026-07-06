@@ -27,7 +27,8 @@ class AhmedZamzam {
 
   Map<String, String> contact = {
     "LinkedIn": "in/ahmed-zamzam-dev",
-    "Phone":    "+201554548893",
+    "WhatsApp": "+201554548893",
+    "Email":    "your.email@example.com",
     "GitHub":   "AHMEDZMZA",
   };
 
@@ -36,6 +37,7 @@ class AhmedZamzam {
 ```
 
 - 🎓 **Menoufia University** Graduate
+- 🤖 Built **ChildMonitor** — an AI-powered app for monitoring neurodevelopmental conditions in children (Flutter + Spring Boot + FastAPI + Llama chatbot)
 - 🔥 Passionate about building **impactful mobile apps**
 - 🌍 Based in **Egypt**, open to **freelance** & **full-time** opportunities
 - 📬 Always happy to connect!
@@ -59,12 +61,14 @@ class AhmedZamzam {
 <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 ### 🏗️ Architecture & Patterns
-<img src="https://img.shields.io/badge/Clean%20Architecture-%23007ACC.svg?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/MVVM-%2300C4CC.svg?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/BLoC%20Pattern-%23013088.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/GetX-%23EF233C.svg?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVVM-00C4CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BLoC%20Pattern-013088?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/GetX-EF233C?style=for-the-badge"/>
 
 ### 🔧 Tools & Platforms
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -148,8 +152,11 @@ class AhmedZamzam {
 <a href="https://github.com/AHMEDZMZA">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="tel:+201554548893">
-  <img src="https://img.shields.io/badge/Phone-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://wa.me/201554548893">
+  <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
