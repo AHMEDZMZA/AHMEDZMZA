@@ -51,16 +51,19 @@ An AI-powered mobile app that helps monitor neurodevelopmental conditions in chi
 
 ## 📂 More Projects
 
-| Project | Link |
-|---------|------|
-| **HungryApp** | [View on GitHub](https://github.com/AHMEDZMZA/HungryApp) |
-| **BooklyApp** | [View on GitHub](https://github.com/AHMEDZMZA/BooklyApp) |
-| **NoteApp** | [View on GitHub](https://github.com/AHMEDZMZA/NoteApp) |
-| **ShopNest** | [View on GitHub](https://github.com/AHMEDZMZA/ShopNest) |
-| **FOOD_DELIVERY** | [View on GitHub](https://github.com/AHMEDZMZA/FOOD_DELIVERY) |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**HungryApp**](https://github.com/AHMEDZMZA/HungryApp) | Food ordering app with a smooth, easy ordering experience | Flutter, Dart, Clean Architecture |
+| [**BooklyApp**](https://github.com/AHMEDZMZA/BooklyApp) | Books app that loads its data from an API | Flutter, Dart, REST API |
+| [**NoteApp**](https://github.com/AHMEDZMZA/NoteApp) | Note-taking app with swipe-to-delete and local storage | Jetpack Compose, MVVM, Dagger Hilt, Room |
+| [**ShopNest**](https://github.com/AHMEDZMZA/ShopNest) | Shopping app | See repository |
+| [**Masrofy**](https://github.com/AHMEDZMZA/masrofy_app) | Personal expense tracking app | See repository |
+<!-- FOOD_DELIVERY is currently an empty repo. Push the code, then uncomment:
+| [**FOOD_DELIVERY**](https://github.com/AHMEDZMZA/FOOD_DELIVERY) | Food delivery app | Add tech here |
+-->
 
 ---
 
 ## 📫 Get in Touch
 
-I'm open to full-time opportunities and freelance work. Reach out via [LinkedIn](https://www.linkedin.com/in/ahmed-zamzam-dev) or check my [portfolio](https://ahmedzamzam.netlify.app).
+I'm open to full-time opportunities and freelance work. Reach out via [LinkedIn](https://www.linkedin.com/in/ahmed-zamzam-dev) or check my [portfolio](https://portfolio-seven-plum-31.vercel.app/).
